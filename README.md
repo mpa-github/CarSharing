@@ -1,5 +1,8 @@
 # CarSharing
 Education project to learn the basics of SQL and work with the H2 database, using Java JDBC.
+
+Java version "17.0.3"
+
 Features implementation:
 - Init the database and create the tables: Company, Car, Customer in it.
 - Create relations between database tables.
