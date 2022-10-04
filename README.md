@@ -1,5 +1,6 @@
 # CarSharing
 Education project to learn the basics of SQL and work with the H2 database, using Java JDBC.
+The application allows to manage car sharing companies, clients car sharing process and store all information in a data base.
 
 Java version "17.0.3"
 
